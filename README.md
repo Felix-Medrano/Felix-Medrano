@@ -1,6 +1,6 @@
 # ¡Hola, soy Félix! 👋
 
-¡Bienvenido a mi perfil! Me apasiona la programación y siempre estoy en busca de nuevas tecnologías y retos que aprender e implementar. Me mantengo en constante aprendizaje e investigación para mejorar mis habilidades y conocimientos.
+Me apasiona la programación y siempre estoy en busca de nuevos retos que me ayuden a mejorar mis conocimientos. Me mantengo en constante aprendizaje e investigación para mejorar mis habilidades y conocimientos.
 
 ---
 
@@ -44,7 +44,7 @@
 
 ## Hello, I'm Félix! 👋
 
-Welcome to my profile! I'm passionate about programming and always looking for new technologies and challenges to learn and implement. I am constantly learning and researching to improve my skills and knowledge.
+I am passionate about programming and I am always looking for new challenges that help me improve my knowledge. I am constantly learning and researching to improve my skills and knowledge.
 
 ---
 
